@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_glow/flutter_glow.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:marquee_text/marquee_text.dart';
-import 'package:online_radio_player/src/features/domain/playing_station.dart';
+import 'package:online_radio_player/src/features/player/domain/playing_station.dart';
 import 'package:online_radio_player/src/features/player/presentation/player_controller.dart';
 
 class Player extends ConsumerWidget {

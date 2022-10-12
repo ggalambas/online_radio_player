@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:online_radio_player/src/features/domain/playing_station.dart';
+import 'package:online_radio_player/src/features/player/domain/playing_station.dart';
 import 'package:online_radio_player/src/features/stations/data/stations_repository.dart';
 import 'package:online_radio_player/src/features/stations/domain/station.dart';
 import 'package:radio_player/radio_player.dart';
