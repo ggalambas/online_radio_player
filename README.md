@@ -1,16 +1,6 @@
-# online_radio_player
+# Video Browser | Mobile App UI
 
-A new Flutter project.
+A LabHouse [Developer Test](https://github.com/ggalambas/online_radio_player/files/10548250/Mobile_Developer_Test_-_EN.pdf)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI](https://user-images.githubusercontent.com/23039656/215810773-b133f170-2ce5-47a8-a645-5a6b98fa9823.png)
